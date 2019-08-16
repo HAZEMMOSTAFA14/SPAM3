@@ -4,7 +4,7 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("611679389440016456")
+let channel =     client.channels.get("611819336809840640")
 setInterval(function() {
 channel.send(`#daily credits`);
 }, 30)
